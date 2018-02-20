@@ -1,6 +1,6 @@
 # gorun
 
-Usage: gorun <program>
+Usage: gorun program
 
 gorun will execute the program, stopping it and relaunching if the executable
 file changes.

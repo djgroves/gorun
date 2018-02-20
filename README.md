@@ -12,7 +12,9 @@ to have to manually stop & start it all the time.
 To install:
 
   go get github.com/djgroves/gorun.git
+
   go build
+
   go install
 
 Enjoy!
